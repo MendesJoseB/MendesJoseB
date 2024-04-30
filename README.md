@@ -1,7 +1,6 @@
-### Olá, me chamo José Bento Mendes Correia 👋
-### Hello, me chamo José Bento Mendes Correia
+### Olá, me chamo José Bento Mendes Correia 
 
-- Estudo Engenharia da Computação no Institudo federaL Goiano
+- Estudo Engenharia da Computação no Institudo federaL Goiano :computer:
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg/300px-Instituto_Federal_Goiano_-_Marca_Vertical_2015.svg.png"  height = "90" />
  
 - Estudante na plataforma Alura
