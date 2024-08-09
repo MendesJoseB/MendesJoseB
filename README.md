@@ -18,4 +18,4 @@
     <img src="https://cdn.icon-icons.com/icons2/1109/PNG/96/1486053613-linkedin_79186.png"  height = "90" />
 -[ Meu Linkedin](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BgoM8eaNgTXuwmYVr3t7Bwg%3D%3D)
  
-<img src="https://th.bing.com/th/id/OIP.g-oEQOuqNEjkgKYtPoaWIgHaHa?w=168&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7" height="90">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Instagram_logo_2022.svg/225px-Instagram_logo_2022.svg.png" height="90">
