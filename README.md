@@ -9,7 +9,8 @@
  
 - Possuo conhecimento nas liguagens:
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height = "90" />    <img src="https://th.bing.com/th/id/R.a3ec0da82ca119cdd7a4531f0821698a?rik=K%2bP9TNTCL9p9cQ&pid=ImgRaw&r=0" height = "90">    <img src= "https://th.bing.com/th?id=OSK.dc5209e52d957ae534fc44077c280617&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" height = "90">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height = "90" />    <img src="https://th.bing.com/th/id/R.a3ec0da82ca119cdd7a4531f0821698a?rik=K%2bP9TNTCL9p9cQ&pid=ImgRaw&r=0" height = "90">    <img src= "https://th.bing.com/th?id=OSK.dc5209e52d957ae534fc44077c280617&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" height = "90"> <img src= >
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-plain.svg"  height = "90" />    <img src="https://th.bing.com/th/id/R.a3ec0da82ca119cdd7a4531f0821698a?rik=K%2bP9TNTCL9p9cQ&pid=ImgRaw&r=0" height = "90">    <img src= "https://th.bing.com/th?id=OSK.dc5209e52d957ae534fc44077c280617&w=102&h=102&c=7&o=6&dpr=1.3&pid=SANGAM" height = "90"> 
 
 
     ### Contatos
