@@ -15,6 +15,6 @@
     ## Contatos 📱
 
                                                                                                                                                 
-   <a href="://www.linkedin.com/in/joseBentoM"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" height = 90></a>
+   <a href=https://www.linkedin.com/in/joseBentoM><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" height = 90></a>
 
     <a href=https://www.instagram.com/josebento_mendes><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank" height = 90></a> 
