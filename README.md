@@ -15,6 +15,6 @@
     ## Contatos 📱
 
                                                                                                                                                 
-   <a href="https://github.com/tandpfun/skill-icons/raw/main/icons/LinkedIn.svg" target="_blank"><img src="https://raw.githubusercontent.com/gui-bus/TechIcons/70f9ca213e35be00f41c0350d77c238c999db688/Dark/Linkedin.svg" target="_blank" height = 90></a>
+   <a href="www.linkedin.com/in/josé-bento-mendes-correia-6957a5306" target="_blank"><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/LinkedIn.svg" target="_blank" height = 90></a>
 
     <a href=https://www.instagram.com/josebento_mendes><img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Instagram.svg" target="_blank" height = 90></a> 
