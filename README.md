@@ -1,7 +1,7 @@
 # Olá, eu sou o José Bento! 
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MendesJoseB&theme=gotham&show_icons=true&hide_border=true&count_private=true" alt="Status do GitHub](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=MendesJoseb&show_icons=true&theme=dracula" />
 </p>
 
 ---
