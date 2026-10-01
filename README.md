@@ -9,7 +9,7 @@
 ### 🚀 Sobre Mim
 Sou estudante de **Engenharia da Computação** no **Instituto Federal Goiano** e profissional apaixonado por tecnologia.
 
-* **💼 Atuação Profissional:** Desenvolvedor C++ na **Hawk Precision**.
+* **💼 Atuação Profissional: ex ** Desenvolvedor C++ na **Hawk Precision**.
 * **🌐 Internet das Coisas (IoT):** Desenvolvimento de sistemas inteligentes e conectados.
 * **🔌 Automação e Hardware:** Desenvolvimento de placas e software usando microcontroladores e microprocessadores.
 
